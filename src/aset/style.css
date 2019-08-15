@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap");
+.menumovie {
+  padding-top: 30px;
+  text-align: left;
+}
+.menumovie li {
+  display: inline;
+  margin-right: 35px;
+}
